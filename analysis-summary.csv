@@ -1,0 +1,16 @@
+Metric,Value,Notes
+Total reviews analysed,120,"1, 2, and 3 star reviews only"
+Product,Mid-range electric standing desk,Amazon Canada listing
+Review period,November 2024 to April 2026,18 months
+Average star rating (neg reviews),1.74,Filtered to 1-3 star
+Verified purchases,102 of 120 (85%),Higher credibility signal
+Top failure category,Wobbles or unstable at height,26.7% of all complaints
+Second failure category,Motor failure or stopped working,25.0% of complaints
+Top 2 categories combined,51.7% of total complaints,Primary quality signal
+Top 4 categories combined,74.2% of total complaints,Pareto threshold
+Control chart mean (CL),6.67,Monthly complaint average
+Upper Control Limit (UCL),11.04,Mean + 2 standard deviations
+Lower Control Limit (LCL),2.3,Max of 0 or mean minus 2 SD
+Months breaching UCL,0,Out of control signal
+Rising trend identified,Yes,Wobble + motor complaints rising in recent months
+Recommended action,Quality Alert + CAPA,Structural integrity investigation
