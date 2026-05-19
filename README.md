@@ -19,7 +19,7 @@ I was shopping for a standing desk on Amazon for my new apartment in Mississauga
 | Top 2 categories combined | 51.7% of all complaints |
 | Top 4 categories combined | 74.2% of all complaints |
 | Control chart UCL | 11.04 complaints per month |
-| Notable signal month | January 2026 — 100% of complaints were wobble or motor |
+| Notable signal month | January 2026: 100% of complaints were wobble or motor |
 
 ---
 
@@ -59,7 +59,7 @@ The first four categories account for 74.2% of all complaints; the Pareto thresh
 
 | Tool | Purpose |
 |------|---------|
-| Amazon reviews (manual) | Data collection — 1 to 3 star reviews read and categorised by hand |
+| Amazon reviews (manual) | Data collection: 1 to 3 star reviews read and categorised by hand |
 | Google Sheets | Data recording, Pareto analysis, control chart calculations |
 | Looker Studio | Dashboard visualising complaint trends, Pareto chart, monthly volume |
 | Google Docs | Quality Alert and CAPA report |
@@ -75,7 +75,7 @@ Customer complaint data analysis. Pareto analysis (80/20 methodology). Statistic
 
 ## Why this matters
 
-Most companies collect quality complaints through formal channels — warranty claims, support tickets, regulatory reports. By the time a complaint reaches those systems the customer has already had a bad experience. Amazon reviews are a leading indicator. Customers write reviews within days or weeks of a failure. A quality team monitoring review sentiment systematically would see a pattern like this months before it shows up in formal complaint data.
+Most companies collect quality complaints through formal channels; warranty claims, support tickets, regulatory reports. By the time a complaint reaches those systems the customer has already had a bad experience. Amazon reviews are a leading indicator. Customers write reviews within days or weeks of a failure. A quality team monitoring review sentiment systematically would see a pattern like this months before it shows up in formal complaint data.
 
 This project demonstrates that quality signals exist outside the lab and outside formal complaint systems. Finding them early is what separates reactive quality management from proactive quality management.
 
