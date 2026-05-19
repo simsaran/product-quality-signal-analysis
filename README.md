@@ -51,7 +51,8 @@ The first four categories account for 74.2% of all complaints; the Pareto thresh
 | analysis-summary.csv | All headline metrics in one place |
 | quality-alert.pdf | One page quality alert document flagging the signal |
 | capa-report.pdf | Full Corrective and Preventive Action report |
-| build-guide.md | Step by step guide showing exactly how this was built |
+
+View the full Looker Studio dashboard here: https://datastudio.google.com/reporting/6b888664-b294-4a44-817e-a70d6f6cbf87
 
 ---
 
