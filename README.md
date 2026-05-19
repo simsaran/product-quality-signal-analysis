@@ -1,5 +1,5 @@
 # Product Quality Signal Analysis
-### Standing Desk — Customer Complaint Pattern Investigation
+### Standing Desk Customer Complaint Pattern Investigation
 
 ---
 
