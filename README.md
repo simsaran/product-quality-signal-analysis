@@ -37,7 +37,7 @@ I was shopping for a standing desk on Amazon for my new apartment in Mississauga
 | 8 | Poor material quality | 6 | 5.0% | 99.2% |
 | 9 | Broke within first month | 1 | 0.8% | 100% |
 
-The first four categories account for 74.2% of all complaints — the Pareto threshold. The top two alone account for more than half of all negative feedback and both relate directly to the core function of the product.
+The first four categories account for 74.2% of all complaints; the Pareto threshold. The top two alone account for more than half of all negative feedback and both relate directly to the core function of the product.
 
 ---
 
@@ -69,7 +69,7 @@ The first four categories account for 74.2% of all complaints — the Pareto thr
 
 ## Skills demonstrated
 
-Customer complaint data analysis. Pareto analysis (80/20 methodology). Statistical Process Control — control chart with UCL and LCL. Failure mode classification. Quality Alert writing. CAPA (Corrective and Preventive Action) documentation. Post-market surveillance thinking. GMP-aligned quality documentation.
+Customer complaint data analysis. Pareto analysis (80/20 methodology). Statistical Process Control; control chart with UCL and LCL. Failure mode classification. Quality Alert writing. CAPA (Corrective and Preventive Action) documentation. Post-market surveillance thinking. GMP-aligned quality documentation.
 
 ---
 
